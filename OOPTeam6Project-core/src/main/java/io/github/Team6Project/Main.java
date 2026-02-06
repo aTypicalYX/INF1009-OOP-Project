@@ -30,3 +30,4 @@ public class Main extends ApplicationAdapter {
         image.dispose();
     }
 }
+// TEST ETHEL
